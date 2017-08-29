@@ -1,0 +1,22 @@
+{
+  "name": "align.css",
+  "version": "0.0.0",
+  "description": "CSS vertical-align classes",
+  "license": "CC0-1.0",
+  "main": "align.css",
+  "scripts": {},
+  "homepage": "https://github.com/ryanve/align.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/align.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanve/align.css/issues"
+  },
+  "keywords": [
+    "functional-css",
+    "vertical-align",
+    "alignment",
+    "css"
+  ]
+}
