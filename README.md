@@ -16,3 +16,5 @@ npm install align.css
 
 - `.align-baseline`
 - `.align-middle`
+- `.align-bottom`
+- `.align-top`
